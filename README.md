@@ -1,4 +1,4 @@
-# User Behavior & Risk Analysis (SQL + Power BI)
+# User Behavior & Risk Analysis | SQL + Power BI + Python
 
 ## Project Overview
 This project analyzes synthetic user behavior and transaction data to identify unusual activity patterns and support risk monitoring and anomaly detection use cases.
