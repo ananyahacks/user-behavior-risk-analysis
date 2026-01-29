@@ -1,7 +1,8 @@
 # User Behavior & Risk Analysis | SQL + Power BI + Python
 
 ## Project Overview
-This project analyzes synthetic user behavior and transaction data to identify unusual activity patterns and support risk monitoring and anomaly detection use cases.
+This project analyzes synthetic user behavior and transaction data to identify unusual activity patterns and support risk monitoring and anomaly detection use cases. The datasets were programmatically generated using Python and the Faker library to create realistic synthetic user, login, and transaction data. This approach enables controlled simulation of real-world user behavior, anomaly scenarios, and risk patterns for analytics and visualization.
+
 
 The analysis is designed to simulate real-world scenarios such as fraud risk, abnormal usage behavior, and operational alerts.
 
