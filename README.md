@@ -5,6 +5,14 @@ This project analyzes synthetic user behavior and transaction data to identify u
 
 The analysis is designed to simulate real-world scenarios such as fraud risk, abnormal usage behavior, and operational alerts.
 
+## Purpose
+
+This project was created as a portfolio and academic project to demonstrate skills in:
+- SQL analytics
+- Risk and fraud-style analysis
+- Data modeling
+- Power BI dashboarding
+
 ## Business Problem
 Organizations need to detect and monitor unusual user behavior to reduce fraud risk, improve platform security, and prioritize investigation efforts. This project focuses on identifying high-risk users, abnormal activity patterns, and time-based spikes in behavior.
 
