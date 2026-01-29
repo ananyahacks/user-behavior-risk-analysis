@@ -49,10 +49,10 @@ These tables enable multi-dimensional analysis across users, behavior patterns, 
 - Risk trend monitoring
 
 ## Tools & Technologies
-- Python (Faker Library) — synthetic data generation
-- MySQL — relational data modeling and SQL analysis
-- Power BI — interactive risk and behavior dashboards
-- Excel / CSV — data interchange
+- `Python (Faker Library)` — synthetic data generation
+- `MySQL` — relational data modeling and SQL analysis
+- `Power BI` — interactive risk and behavior dashboards
+- `Excel / CSV` — data interchange
 
 
 
